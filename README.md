@@ -1,24 +1,18 @@
-# README
+# Toy app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is an exercise app developed as part of Michael Hartl's
+##Ruby on Rails Tutorial
+###Learn Web Development with Rails
+You can see the tutorial [here](https://www.railstutorial.org/book)
 
-Things you may want to cover:
+* Ruby version 2.4.1
 
-* Ruby version
-
-* System dependencies
+* Run bundle install
 
 * Configuration
 
-* Database creation
+* Database created using sqlite3
 
 * Database initialization
 
 * How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
