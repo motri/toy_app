@@ -19,3 +19,4 @@ You can see the tutorial [here](https://www.railstutorial.org/book)
 * Database initialization
 
 * How to run the test suite
+![alt text](https://www.imageupload.co.uk/images/2017/06/09/ScreenShot2017-06-09at15.35.08f9b27.png)
